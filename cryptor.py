@@ -100,7 +100,7 @@ def decryptor():
 
 def start_page():
     print("==================================")
-    print("Welcome to cryptor")
+    print("Welcome to cryptor 1.0")
     print("A python based text file encryptor")
     print("================================== ")
     print("\n MENU")
